@@ -1,0 +1,100 @@
+﻿1;9,2;The Shawshank Redemption (1994);722.451
+2;9,2;The Godfather (1972);540.668
+3;9,0;The Godfather: Part II (1974);340.431
+4;8,9;Pulp Fiction (1994);568.038
+5;8,9;The Good. the Bad and the Ugly (1966);226.145
+6;8,9;12 Angry Men (1957);176.861
+7;8,9;Schindler's List (1993);379.464
+8;8,8;The Dark Knight (2008);657.494
+9;8,8;The Lord of the Rings: The Return of the King (2003);507.183
+10;8,8;One Flew Over the Cuckoo's Nest (1975);303.940
+11;8,8;Star Wars: Episode V - The Empire Strikes Back (1980);368.515
+12;8,8;Fight Club (1999);545.438
+13;8,8;Inception (2010);510.603
+14;8,8;Seven Samurai (1954);124.235
+15;8,7;The Lord of the Rings: The Fellowship of the Ring (2001);528.470
+16;8,7;Goodfellas (1990);320.930
+17;8,7;Star Wars: Episode IV - A New Hope (1977);414.896
+18;8,7;City of God (2002);239.002
+19;8,7;Casablanca (1942);211.705
+20;8,7;The Matrix (1999);525.867
+21;8,7;Once Upon a Time in the West (1968);103.577
+22;8,7;Rear Window (1954);156.353
+23;8,7;Raiders of the Lost Ark (1981);317.516
+24;8,7;The Silence of the Lambs (1991);348.353
+25;8,7;The Usual Suspects (1995);351.244
+26;8,6;Se7en (1995);411.624
+27;8,6;The Lord of the Rings: The Two Towers (2002);454.825
+28;8,6;Forrest Gump (1994);453.561
+29;8,6;Psycho (1960);192.414
+30;8,6;It's a Wonderful Life (1946);134.699
+31;8,6;Leon: The Professional (1994);298.220
+32;8,6;Memento (2000);383.014
+33;8,6;Sunset Blvd, (1950);72.213
+34;8,6;Dr, Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964);193.434
+35;8,6;Apocalypse Now (1979);225.912
+36;8,5;American History X (1998);329.792
+37;8,5;North by Northwest (1959);118.057
+38;8,5;Terminator 2: Judgment Day (1991);332.140
+39;8,5;Citizen Kane (1941);170.750
+40;8,5;Saving Private Ryan (1998);374.578
+41;8,5;American Beauty (1999);393.736
+42;8,5;Toy Story 3 (2010);194.124
+43;8,5;Alien (1979);241.548
+44;8,5;City Lights (1931);41.938
+45;8,5;Taxi Driver (1976);223.526
+46;8,5;Spirited Away (2001);154.894
+47;8,5;Vertigo (1958);118.885
+48;8,5;The Shining (1980);253.469
+49;8,5;Paths of Glory (1957);59.179
+50;8,5;M (1931);52.285
+51;8,5;The Pianist (2002);195.960
+52;8,5;Amélie (2001);252.490
+53;8,5;The Departed (2006);372.475
+54;8,4;Double Indemnity (1944);49.504
+55;8,4;WALL·E (2008);279.401
+56;8,4;Modern Times (1936);52.151
+57;8,4;The Lives of Others (2006);113.445
+58;8,4;A Clockwork Orange (1971);257.163
+59;8,4;Aliens (1986);226.077
+60;8,4;Lawrence of Arabia (1962);99.179
+61;8,4;To Kill a Mockingbird (1962);106.890
+62;8,4;Life Is Beautiful (1997);157.294
+63;8,4;Back to the Future (1985);289.707
+64;8,4;Das Boot (1981);89.529
+65;8,4;Requiem for a Dream (2000);261.700
+66;8,4;Eternal Sunshine of the Spotless Mind (2004);306.411
+67;8,4;Reservoir Dogs (1992);289.318
+68;8,4;The Third Man (1949);63.440
+69;8,4;A Separation (2011);41.801
+70;8,4;The Prestige (2006);315.158
+71;8,4;The Green Mile (1999);292.699
+72;8,4;L,A, Confidential (1997);215.634
+73;8,4;Cinema Paradiso (1988);63.888
+74;8,4;Chinatown (1974);105.121
+75;8,4;The Treasure of the Sierra Madre (1948);42.464
+76;8,4;The Great Dictator (1940);52.668
+77;8,3;Gladiator (2000);402.202
+78;8,3;Once Upon a Time in America (1984);101.451
+79;8,3;Monty Python and the Holy Grail (1974);198.250
+80;8,3;Rashomon (1950);52.023
+81;8,3;Full Metal Jacket (1987);212.860
+82;8,3;Amadeus (1984);129.499
+83;8,3;Bicycle Thieves (1948);39.518
+84;8,3;Singin' in the Rain (1952);72.437
+85;8,3;Some Like It Hot (1959);88.333
+86;8,3;Raging Bull (1980);118.603
+87;8,3;All About Eve (1950);44.296
+88;8,3;Braveheart (1995);331.500
+89;8,3;Metropolis (1927);54.429
+90;8,3;Oldboy (2003);143.991
+91;8,3;The Bridge on the River Kwai (1957);76.727
+92;8,3;2001: A Space Odyssey (1968);205.816
+93;8,3;Pan's Labyrinth (2006);218.656
+94;8,3;The Apartment (1960);50.312
+95;8,3;Star Wars: Episode VI - Return of the Jedi (1983);286.121
+96;8,3;Unforgiven (1992);136.875
+97;8,3;The Sting (1973);86.693
+98;8,3;Downfall (2004);118.299
+99;8,3;Princess Mononoke (1997);92.128
+100;8,3;Indiana Jones and the Last Crusade (1989);232.153
